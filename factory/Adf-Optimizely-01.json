@@ -1,0 +1,9 @@
+{
+	"name": "Adf-Optimizely-01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19dda72d-b7c8-40be-9809-a7735ee5e8da",
+		"tenantId": "669e3e34-b884-491e-8864-a8fe57c5b618"
+	}
+}
